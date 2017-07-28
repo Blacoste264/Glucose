@@ -1,18 +1,29 @@
 <!DOCTYPE html>
 <html>
 <body data-ng-controller="HomeController">
+  <script>
+    AOS.init();
+  </script>
   <!--Beginning of Parallex Divs-->
     <section class="parallex"> 
       <div class="parallex-inner">
-        <h2 id="homeFirstDiv"> WELCOME </h2>
+        <h2 class="parallexDiv"> WELCOME </h2>
       </div>
     </section>
-    <h3> SPACE </h3>
-    <section class="secondParallex"> 
+    <section>
       <div class="parallex-inner">
-        <h2 id="homeFirstDiv"> WELCOME </h2>
+        <h2 class="parallexDiv"> SPACE </h2>
       </div>
     </section>
-    <h3> SPACE </h3>
+    <section data-aos-duration="600" class="secondParallex"> 
+      <div class="parallex-inner">
+        <h2 class="parallexDiv"> WELCOME </h2>
+      </div>
+    </section>
+    <section>
+      <div class="parallex-inner">
+        <h2 class="parallexDiv"> SPACE </h2>
+      </div>
+    </section>
   <!--Ending of Parallex-->
 </body>
