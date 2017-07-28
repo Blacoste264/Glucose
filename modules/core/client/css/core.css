@@ -1,6 +1,4 @@
-/*Start Parallex*/
-
-.homeFirstDiv {
+#homeFirstDiv {
   text-align: center;
   font-size: 375%;
   color: grey;
@@ -8,6 +6,17 @@
   text-transform: uppercase;
   margin: auto;
 } 
+
+h3 {
+  text-align: center;
+  font-size: 275%;
+  color: grey;
+  letter-spacing: 1%;
+  text-transform: uppercase;
+  margin: 25% 0%;
+}
+
+/*Start Parallex*/
 
 .parallex {
   padding-top: 0;
