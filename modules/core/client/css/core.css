@@ -1,3 +1,40 @@
+.homeFirstDiv {
+  text-align: center;
+  font-size: 375%;
+  color: grey;
+  letter-spacing: 1%;
+  text-transform: uppercase;
+  margin: auto;
+} 
+
+h3 {
+  text-align: center;
+  font-size: 275%;
+  color: grey;
+  letter-spacing: 1%;
+  text-transform: uppercase;
+  margin: 25% 0%;
+}
+
+/*Start Parallex*/
+
+.parallex {
+  padding-top: 0;
+  background: url("https://www.organicfacts.net/wp-content/uploads/diabetes2.jpg") no-repeat fixed center;
+}
+
+.secondParallex {
+  padding-top: 0;
+  background: url("https://cdn-jpg1.thedailymeal.com/sites/default/files/styles/hero_image_breakpoints_theme_tdmr_lg_1x/public/story/ThinkstockPhotos-diabetes.jpg?itok=YibOYvzO&timestamp=1450730697") no-repeat fixed center;
+}
+
+.parallex-inner {
+  padding-top: 20%;
+  padding-bottom: 20%;
+}
+
+/*End Parallex*/
+
 .content {
   margin-top: 50px;
 }
