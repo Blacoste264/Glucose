@@ -1,6 +1,6 @@
 # Glucose
 
-A Web Application buildt in entirely full-stack JavaScript using the MEAN stack (MongoDB, Express, Angular, Node).
+A Web Application built in entirely full-stack JavaScript using the MEAN stack (MongoDB, Express, Angular, Node).
 Single Page Application implementing the newest node packages, with a sleek, very user friendly UI design welcoming users of all ages and computer skill levels.
 
 Users will are able to login through their social network of choice, upload photos using Filestack, post their glucose readings from their glucose monitoring devices using Tidepool, chat using Socket.IO etc. 
